@@ -17,7 +17,6 @@
 <p align="center">
   I build things for fun (and sometimes they're actually useful).<br />
   I'm usually writing code or exploring something new.<br />
-  Outside of that: anime 🎌 · music 🎧 · pictures of the sky when it looks pretty ☁️<br />
   Currently balancing programming and whatever else catches my interest.
 </p>
 
